@@ -5,7 +5,6 @@ import Icon from 'react-native-vector-icons/FontAwesome6';
 const minecraftData = [
   {
     title: 'Found in: 🏠 Village',
-    icon: '🏠', // Emoji or custom icon
     color: '#5C4033',
     data: [
       { name: 'Iron Golem', cardImage: 'https://gamepedia.cursecdn.com/minecraft_gamepedia/0/0d/Iron_Golem.png' },
@@ -14,7 +13,6 @@ const minecraftData = [
   },
   {
     title: 'Found in: 🏹 Outpost',
-    icon: '🏹', // Emoji or custom icon
     color: '#5C4033',
     data: [
       { name: 'Pillager', cardImage: 'https://gamepedia.cursecdn.com/minecraft_gamepedia/d/d1/Pillager.png' },
@@ -23,7 +21,6 @@ const minecraftData = [
   },
   {
     title: 'Found in: 🏰 Mansion',
-    icon: '🏰', // Emoji or custom icon
     color: '#5C4033',
     data: [
       { name: 'Evoker', cardImage: 'https://gamepedia.cursecdn.com/minecraft_gamepedia/2/28/Evoker_attacking.png' },
@@ -32,7 +29,6 @@ const minecraftData = [
   },
   {
     title: 'Found in: 🌊 Ocean Temple',
-    icon: '🌊', // Emoji or custom icon
     color: '#5C4033',
     data: [
       { name: 'Elder Guardian', cardImage: 'https://us-tuna-sounds-images.voicemod.net/98a7a90a-b5d3-4727-bbac-429da5423599-1673859104752.png' },
@@ -41,7 +37,6 @@ const minecraftData = [
   },
   {
     title: 'Found in: 🧙‍ Witch Hut',
-    icon: '🧙‍♀️', // Emoji or custom icon
     color: '#5C4033',
     data: [
       { name: 'Witch', cardImage: 'https://gamepedia.cursecdn.com/minecraft_gamepedia/e/e6/Witch.png' },
